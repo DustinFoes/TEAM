@@ -1,2 +1,0 @@
-# TEAM
-ArcBridge Reports
